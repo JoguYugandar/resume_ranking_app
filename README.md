@@ -1,3 +1,11 @@
+# Archived Project
+
+This repository contains the first version of my Resume Ranking System built using TF-IDF and Cosine Similarity.
+
+The improved version is available here:
+
+[New Repository Link]
+
 
 # AI Resume Screening & Ranking System
 
@@ -31,7 +39,7 @@ resume_ranking_app/
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/Anshu-1305/resume_ranking_app.git
+git clone https://github.com/JoguYugandar/resume_ranking_app.git
 cd resume_ranking_app
 ```
 
