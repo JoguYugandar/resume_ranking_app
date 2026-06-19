@@ -1,17 +1,27 @@
 # Archived Project
 
-This repository contains the first version of my Resume Ranking System built using TF-IDF and Cosine Similarity.
+⚠️ This repository contains the first version of my Resume Ranking System built using TF-IDF and Cosine Similarity.
 
-The improved version is available here:
+This project was developed as an initial exploration of AI-powered resume screening and ranking.
 
-[New Repository Link]
+The improved version is being rebuilt using:
+
+- Sentence Transformers
+- Semantic Search
+- Resume Parsing
+- Skill Extraction
+- Recruiter Analytics
+- Explainable AI Matching
+
+🔗 New Repository: [Add New Repository Link Here]
 
 
 # AI Resume Screening & Ranking System
 
 This project is an AI-powered resume screening and ranking system built using Streamlit, scikit-learn, and PyPDF2. The application allows users to upload resumes in PDF format, compares them to a given job description, and ranks them based on cosine similarity using TF-IDF.
 
-Project Link:https://resumerankingapp-joguyugandar.streamlit.app/
+Project Link:
+https://resumerankingapp-joguyugandar.streamlit.app/
 
 ## 🚀 Features
 
@@ -51,7 +61,7 @@ python -m venv .venv
 
 Activate on Windows:
 ```sh
-source .venv\Scripts\activate
+.\.venv\Scripts\Activate.ps1
 ```
 
 Activate on Mac/Linux:
@@ -111,16 +121,18 @@ pip install -r requirements.txt
 - **Job Portals** – Enhances resume-job matching accuracy.
 - **AI Enthusiasts & Students** – Learn NLP-based resume analysis.
 
-## 🔮 Future Scope
+## 🔮 Project Evolution (Future Scope)
 
-✅ AI-Based Scoring – Use ML/Deep Learning for better ranking.  
-✅ Advanced NLP – Integrate BERT/GPT for deeper analysis.  
-✅ Multi-Format Support – Add DOCX, TXT & OCR for images.  
-✅ Skill Matching – Extract skills & experience automatically.  
-✅ API Integration – Connect with job portals & HR systems.  
+This project served as the foundation for a more advanced Resume Intelligence System. The next version focuses on:
+
+- Semantic Search with Sentence Transformers
+- Resume Parsing
+- Skill Extraction
+- Explainable AI Matching
+- Recruiter Analytics Dashboard
+- Production-Ready Architecture
 
 ## 🔚 Conclusion
 
 This AI-powered Resume Screening & Ranking System addresses the challenge of manual resume screening, which is time-consuming and inefficient. By leveraging TF-IDF and Cosine Similarity, the system automates resume ranking, ensuring fast, objective, and accurate candidate shortlisting. With PDF text extraction, real-time ranking, and easy deployment via Streamlit, this project provides an efficient, scalable, and user-friendly solution for recruiters, hiring managers, and job portals. 🚀
 
-GitHub Repository: [resume_ranking_app](https://github.com/joguyugandar/resume_ranking_app.git)
